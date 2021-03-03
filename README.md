@@ -6,8 +6,8 @@ Pre-requisitos:
 
 Como usar:<br>
 Importando e Instanciando a Classe:<br/>
-<img src="image_1.png"/><br/>
+<img src="https://github.com/GabrielGM99/Excel-for-python/blob/master/image_1.PNG"/><br/>
 
 Utilizando os métodos:<br/>
-<img src="image_2.png"/><br/>
-<img src="image_3.png"/><br/>
+<img src="https://github.com/GabrielGM99/Excel-for-python/blob/master/image_2.PNG"/><br/>
+<img src="https://github.com/GabrielGM99/Excel-for-python/blob/master/image_3.PNG"/><br/>
